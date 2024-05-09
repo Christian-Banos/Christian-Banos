@@ -25,3 +25,15 @@
 <br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christian-banos&show_icons=true&locale=en&layout=compact" alt="christian-banos" /></p>
+
+
+
+<p align="center">
+
+- **Languages**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=Javascript&logoColor=white)
+
+<br>   

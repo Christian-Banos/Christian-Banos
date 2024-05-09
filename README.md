@@ -23,7 +23,7 @@
 - **Languages**:
     
      ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-     ![Typescript](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=Typescript&logoColor=white)
+     ![Typescript](https://img.shields.io/badge/Typescript-0078d7.svg?style=for-the-badge&logo=Typescript&logoColor=white)
 
 <br>   
     

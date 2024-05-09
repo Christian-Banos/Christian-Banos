@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **christiandepaulbp@gmail.com**
 
-- 📄 Know about my experiences [https://CV Christian de Paul](https://mnf.red/05bad5e7-c556-4b33-b90c-c74badac773c/classic)
+- 📄 Know about my experiences [CV Christian de Paul](https://mnf.red/05bad5e7-c556-4b33-b90c-c74badac773c/classic)
 
 <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">

@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian de Paul</h1>
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
-<h3 align="center">I'm a frontend developer based in Dublin. I have always been passionate about technology and its endless possibilities to create meaningful and innovative solutions. My journey into the world of tech started when I made a career transition from fraud analysis to programming. While working in fraud analysis, I realized my interest and aptitude for coding and problem-solving. This realization led me to pursue a career in programming, where I could channel my passion for technology into building user-friendly and impactful applications. As a frontend developer, I enjoy crafting elegant and responsive user interfaces that not only look great but also provide a seamless user experience. I love diving into the latest web development technologies and frameworks, constantly expanding my skill set to stay up-to-date with industry trends. Living in Dublin provides me with a vibrant tech community and endless opportunities to collaborate with like-minded professionals. Whether it's attending meetups, participating in hackathons, or exploring the city's thriving tech scene, I am always eager to immerse myself in the world of technology and contribute to its growth and innovation. In my free time, you can find me tinkering with new coding projects, exploring the outdoors, or enjoying a good book at a cozy café. I'm excited about the future of technology and the endless possibilities it holds, and I look forward to continuing my journey as a frontend developer in this dynamic and ever-evolving field.</h3>
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
+<h3 align="center">I'm a frontend developer based in Dublin, passionate about creating meaningful and innovative solutions through technology. I transitioned from a career in fraud analysis to programming after discovering my aptitude for coding and problem-solving. As a frontend developer, I focus on building elegant, responsive user interfaces that provide seamless experiences. I enjoy staying up-to-date with the latest web development technologies and trends.
+
+Living in Dublin allows me to engage with a vibrant tech community through meetups, hackathons, and collaborations. In my free time, I work on coding projects, explore the outdoors, or relax with a book at a café. I'm excited about the future of technology and eager to keep growing in this dynamic field.</h3>
 
 <br><br>
 
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **christiandepaulbp@gmail.com**
 
-- 📄 Know about my experiences [CV Christian de Paul](https://mnf.red/05bad5e7-c556-4b33-b90c-c74badac773c/classic)
+- 📄 Know about my experiences [CV Christian de Paul](https://www.canva.com/design/DAGZ63qJ_FM/yj-JVEg00w5dyWH5JQXcTQ/view?utm_content=DAGZ63qJ_FM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h878e327e6a)
 
 <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
@@ -31,8 +33,11 @@
 
 - **Languages**:
     
-     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-     ![Typescript](https://img.shields.io/badge/Typescript-0078d7.svg?style=for-the-badge&logo=Typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
+
 
 <br>   
     

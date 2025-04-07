@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christian de Paul</h1>
 
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
-<h3 align="center">I'm a frontend developer based in Dublin, passionate about creating meaningful and innovative solutions through technology. I transitioned from a career in fraud analysis to programming after discovering my aptitude for coding and problem-solving. As a frontend developer, I focus on building elegant, responsive user interfaces that provide seamless experiences. I enjoy staying up-to-date with the latest web development technologies and trends.
-
-Living in Dublin allows me to engage with a vibrant tech community through meetups, hackathons, and collaborations. In my free time, I work on coding projects, explore the outdoors, or relax with a book at a café. I'm excited about the future of technology and eager to keep growing in this dynamic field.</h3>
+<h3 align="center">I'm a developer passionate about crafting accessible, pixel-perfect user interfaces that blend thoughtful design with robust engineering. My favorite work lies at the intersection of design and development, creating experiences that not only look great but are meticulously built for performance and usability.
+I specialize in weaving digital elegance to bring your online world to life.</h3>
 
 <br><br>
 

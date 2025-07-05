@@ -14,7 +14,9 @@ I specialize in weaving digital elegance to bring your online world to life.</h3
 
 - 📫 How to reach me **christiandepaulbp@gmail.com**
 
-- 📄 Know about my experiences [CV Christian de Paul]([[](https://www.canva.com/design/DAGsUiwVUmE/GF8JKYIIUrvOuHrLzZ6FoQ/edit?utm_content=DAGsUiwVUmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAGsUiwVUmE/GF8JKYIIUrvOuHrLzZ6FoQ/edit?utm_content=DAGsUiwVUmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)])
+<p>📄 <strong>Know about my experience:</strong> 
+<a href="https://www.canva.com/design/DAGsUiwVUmE/nQnOBcCpDOVZBOavOtuXzA/view?utm_content=DAGsUiwVUmE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h144e1517c5" target="_blank">
+CV – Christian de Paul
 
 <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
